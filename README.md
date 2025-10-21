@@ -44,10 +44,10 @@ Top Performing Stores:
 Top 10 stores show higher customer engagement and sales, indicating strong local demand and efficient operations.
 
 Insights Summary
-📊 High Store Count (896) ensures wide customer coverage.
-👥 786 Avg. Daily Customers shows stable footfall across regions.
-💰 ₹53M Total Sales indicates overall healthy business performance.
-🏆 Top 10 Stores outperform due to higher customer inflow, strategic location, or better inventory management.
+High Store Count (896) ensures wide customer coverage.
+786 Avg. Daily Customers shows stable footfall across regions.
+₹53M Total Sales indicates overall healthy business performance.
+Top 10 Stores outperform due to higher customer inflow, strategic location, or better inventory management.
 
 Business Recommendation :
 
