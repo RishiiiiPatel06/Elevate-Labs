@@ -68,6 +68,127 @@ Developed skills in:
 
 ---
 
+# 📈 Task 3 – Business Insight Dashboard
+
+### 🎓 Internship Project – Elevate Labs  
+**Intern Name:** Rishi Patel  
+**Project Type:** Data Analytics Internship Project  
+
+---
+
+## 🎯 Objective
+Develop an interactive **Business Insight Dashboard** to visualize key performance indicators (KPIs) and uncover data-driven insights that support strategic decision-making.
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Power BI** – Data visualization & dashboard creation  
+- **Excel / CSV** – Data source  
+- **DAX (Data Analysis Expressions)** – For measures and calculated fields  
+- **Power Query** – For cleaning and transforming raw data  
+
+---
+
+## 📊 Dashboard Overview
+
+The dashboard consolidates **business performance data** into a single interactive report, enabling quick analysis of:
+- 🏬 **Sales, Profit, and Quantity trends**
+- 🌍 **Regional and Category-wise performance**
+- 📅 **Monthly / Quarterly comparisons**
+- 👥 **Customer behavior and order trends**
+- 💰 **Top & Bottom performing products and markets**
+
+---
+
+## 📈 Key Metrics Displayed
+
+| Metric | Description |
+|--------|--------------|
+| 💵 **Total Sales** | Overall sales generated across all regions and products |
+| 📦 **Total Orders** | Number of orders processed during the selected period |
+| 👥 **Total Customers** | Unique customers served |
+| 💰 **Profit** | Net profit after costs |
+| 🗓️ **Average Order Value (AOV)** | Sales per customer order |
+| 📉 **Profit Margin %** | Ratio of profit to total sales |
+| 🏙️ **Top 5 Regions** | Highest-earning geographic regions |
+| 🛒 **Top Products** | Items contributing the most to revenue |
+
+---
+
+## 📉 Visual Components
+
+- **KPI Cards:** Summarizing Sales, Profit, Customers, and Orders  
+- **Bar Charts:** Category-wise and regional comparisons  
+- **Line Charts:** Time-series trends of sales and profit  
+- **Pie / Donut Charts:** Product and customer segment distributions  
+- **Map Visualization:** Geographic sales overview  
+- **Filters / Slicers:** For dynamic drill-down by Region, Product, Category, and Time Period  
+
+---
+
+## 💡 Insights & Observations
+
+- 📍 **Regional Insights:**  
+  North and West regions show the highest total sales and profit contribution.  
+
+- 🛍️ **Product Insights:**  
+  Electronics and Office Supplies categories lead in revenue.  
+
+- 📆 **Time Trends:**  
+  Sales peak during the 3rd and 4th quarters, indicating strong seasonal demand.  
+
+- 📈 **Profitability:**  
+  Certain low-selling products yield high profit margins—opportunity for focused marketing.  
+
+- 👥 **Customer Behavior:**  
+  High repeat purchases from top 10% of customers indicate strong brand loyalty.  
+
+---
+
+## 🧭 Business Recommendations
+
+1. **Focus marketing campaigns** in high-performing regions to maintain momentum.  
+2. **Identify low-profit products** and optimize pricing or supplier costs.  
+3. **Replicate success strategies** of top stores and sales channels.  
+4. **Expand customer loyalty programs** for top customers.  
+5. **Monitor monthly trends** to forecast inventory and resource requirements.
+
+---
+
+## 🎯 Project Outcome
+
+- Built an **interactive Power BI dashboard** integrating data from multiple sources.  
+- Delivered **clear, visual insights** into business performance.  
+- Improved understanding of **KPI monitoring**, **trend analysis**, and **data storytelling**.  
+- Strengthened skills in **Power Query**, **DAX**, and **report design principles**.  
+
+---
+
+## 📂 Deliverables
+
+- `Business_Insight_Dashboard.pbix` – Power BI report file  
+- `Dashboard_Screenshots/` – Exported visuals for presentation  
+- `README.md` – Project documentation  
+
+---
+
+## 🧠 Key Learnings
+
+- Designing and publishing **insightful business dashboards** using Power BI.  
+- Transforming raw transactional data into **interactive visuals**.  
+- Presenting KPIs effectively for **decision-making and reporting**.  
+- Understanding real-world **data storytelling** techniques.
+
+---
+
+## 🖥️ How to Open the Dashboard
+
+1. Download the `.pbix` file from this repository.  
+2. Open it using **Power BI Desktop**.  
+3. Interact with filters and visuals to explore different insights.  
+
+---
+
 ## 🍽️ Task 5 – Exploratory Data Analysis (EDA)
 
 ### 🎓 Internship Project – Elevate Labs  
