@@ -189,6 +189,147 @@ The dashboard consolidates **business performance data** into a single interacti
 
 ---
 
+# 🧮 Task 4 – SQL Analysis on Supermarket Sales Data
+
+### 🎓 Internship Project – Elevate Labs  
+**Intern Name:** Rishi Patel  
+**Project Type:** Data Analytics Internship Project  
+
+---
+
+## 🎯 Objective
+To analyze supermarket sales data using **SQL** and uncover insights on **customer behavior, sales performance, profitability, and satisfaction** to support data-driven business decisions.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **SQL (PostgreSQL / MySQL / SQL Server)** – Querying and analysis  
+- **Excel / CSV** – Data source  
+- **Power Query** – For preprocessing before import  
+- **VS Code / pgAdmin / DBeaver** – SQL execution environment  
+
+---
+
+## 🧹 Step 1 – Data Preprocessing
+
+Before analysis, raw data was cleaned and standardized for consistency.
+
+### 🔍 Tasks Performed
+- ✅ **Checked for duplicates:** Ensured unique transaction records.  
+- ✅ **Handled missing values:** Cleaned nulls and empty fields.  
+- ✅ **Converted data types:**  
+  - Adjusted incorrect *date/time* formats for SQL compatibility.  
+  - Imported dataset after correcting date field formats.  
+- ✅ **Ensured data consistency:** Removed irregular or incomplete entries.
+
+### 📊 Outcome
+A **clean, consistent, and analysis-ready dataset** prepared for SQL-based analytics.
+
+---
+
+## 🔎 Step 2 – Exploratory Data Analysis (EDA) using SQL
+
+### **1. Customer Segmentation**
+- Counted transactions by **customer type (Member vs Normal)**.  
+- Analyzed **average spending** per customer category.  
+- 🧠 **Insight:**  
+  Members spend more per transaction — loyalty programs drive higher revenue.
+
+---
+
+### **2. Sales Trend Analysis**
+- Analyzed **sales over time** to identify seasonal peaks.  
+- Detected **peak days and time slots** (morning, afternoon, evening).  
+- 🧠 **Insight:**  
+  Sales peak during **weekends and afternoon hours (12–6 PM)**, suggesting post-work traffic and leisure shopping behavior.
+
+---
+
+### **3. Product Line Performance**
+- Ranked **product lines** by revenue and average quantity sold.  
+- 🧠 **Insight:**  
+  Top categories: **Food & Beverages**, **Health & Beauty**, and **Electronic Accessories** — steady performers with high sales and customer demand.
+
+---
+
+### **4. Payment Method Insights**
+- Identified most-used **payment methods** and related satisfaction ratings.  
+- 🧠 **Insight:**  
+  **E-wallets** dominate in both usage and satisfaction (avg. rating ≈ 8.8–9.0). Customers prefer them for **speed and convenience**.
+
+---
+
+## 📊 Step 3 – Performance Analysis using SQL
+
+### **1. Branch & City Sales**
+- Compared revenue across **branches (A, B, C)** and cities.  
+- 🧠 **Insight:**  
+  - **Branch A (Yangon)** leads in total sales and gross income.  
+  - **Branch C (Naypyitaw)** shows potential for operational improvement.
+
+---
+
+### **2. Customer Type Revenue Contribution**
+- Compared revenue from **Members vs Normal Customers**.  
+- 🧠 **Insight:**  
+  Members contribute **55%+ of total revenue**, confirming that loyalty programs are highly effective.
+
+---
+
+### **3. Product Line Profitability**
+- Calculated **profit margins by category** using SQL aggregate functions.  
+- 🧠 **Insight:**  
+  **Health & Beauty** shows the **highest gross income margin** across all product lines.
+
+---
+
+### **4. Gross Income & Margin Analysis**
+- Calculated **total gross income** and **average gross margin (~4.7%)**.  
+- 🧠 **Insight:**  
+  Margins remain consistent across categories — strong cost management observed.
+
+---
+
+## 😊 Step 4 – Customer Satisfaction Analysis
+
+### **1. Ratings by Product Line and Branch**
+- Analyzed average customer ratings per category and branch.  
+- 🧠 **Insight:**  
+  - **Health & Beauty** and **Food & Beverages** lead in customer satisfaction.  
+  - **Branch A** consistently achieves top ratings, reflecting superior service quality.
+
+---
+
+### **2. Factors Influencing Satisfaction**
+| Factor | Impact Level | Key Insight |
+|--------|---------------|-------------|
+| **Product Line (Health & Beauty, Food & Beverages)** | High | Quality and freshness improve satisfaction |
+| **Payment Method (E-Wallet)** | High | Fast and convenient payments increase ratings |
+| **Customer Type (Member)** | High | Loyalty benefits enhance experience |
+| **Branch (A – Yangon)** | High | Efficient service and management |
+| **Time of Purchase (Morning/Afternoon)** | Moderate | Less rush leads to better service |
+
+---
+
+## 💡 Strategic Recommendations
+
+1. **Expand best-selling lines** (Health & Beauty, Food & Beverages) to all branches.  
+2. **Promote E-wallet payments** using cashback or loyalty points.  
+3. **Enhance membership rewards** to retain high-value customers.  
+4. **Improve service quality** in Branch C and during evening hours through training and scheduling.  
+
+---
+
+## 🧾 Step 5 – Conclusion
+
+The SQL-driven analysis reveals that:
+- Product quality, payment convenience, and loyalty programs are **key satisfaction drivers**.  
+- **Branch A** and **E-wallet transactions** lead in both performance and customer experience.  
+- Implementing **data-driven strategies** in underperforming branches can enhance overall profitability and loyalty.
+
+---
+
 ## 🍽️ Task 5 – Exploratory Data Analysis (EDA)
 
 ### 🎓 Internship Project – Elevate Labs  
