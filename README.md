@@ -1,65 +1,74 @@
-Task 1 :- Data cleaning and Preproecessing.
+## 🧹 Task 1 – Data Cleaning & Preprocessing
 
-objective :- clean and prepare a raw data.
+### 🎯 Objective
+Clean and prepare a raw dataset for analysis.
 
-tools :- python(pandas)
+### 🛠️ Tools Used
+- **Python (Pandas)**
 
-work:-
+### 📋 Work Summary
+- Imported raw dataset into a Jupyter Notebook.  
+- Examined dataset using `.info()` and `.describe()` functions.  
+- Identified missing values (2–3 values missing across columns).  
+- Changed data types for selected columns to ensure accuracy.  
+- Removed missing and duplicate records.  
+- Standardized column and row values for better readability.  
+- Re-ran `.describe()` to view updated statistical summaries.
 
-import data.
+### ✅ Outcome
+- Successfully cleaned and prepared a structured dataset ready for analysis.  
+- Gained hands-on experience in:
+  - Handling **missing values**, **duplicates**, and **inconsistent formatting**.  
+  - Applying **data preprocessing** techniques in **real-world datasets**.  
+  - Building confidence to work independently on raw data using **Pandas**.
 
-then check the data using info and describe function. then change the some column datatype there are 2 to 3 values are missing those are removed. also make column and rows values consistent so, easy to understanding. also use describe function to get all the statistics vlaues.
+---
 
-by completing this task, i gain hands-on experience in identifying and fixing common data issues like missing values, duplicates, and inconsistent formatting.
-leand and use pandas in python for real world data cleaning.
-improved my understanding in data pre-processing, which is a critical step before data analysis or visualizations.
-build confidence in handling raw datasets independently.
+## 📊 Task 2 – Data Visualization & Storytelling
 
+### 🎯 Objective
+Create meaningful visualizations that convey insights effectively.
 
-Task - 2 :- Data Visualization and Storytelling.
+### 🛠️ Tools Used
+- **Power BI**
 
-objective : Create visualization that convey a compelling story.
+### 📦 Deliverables
+- Interactive **Power BI Reports**
+- **Visual Dashboards** highlighting key business metrics.
 
-tools : PowerBI
+---
 
-Deliverables : Visual report's
+### 📈 Summary of Reports – *Superstore Data Insights*
 
-summary of reports :-
+| Metric | Value |
+|--------|--------|
+| 🏬 Total Stores | 896 |
+| 📦 Total Items Available | 2 Million |
+| 💰 Total Store Sales | ₹53 Million |
+| 📊 Average Store Sales | ₹59.35K |
+| 👥 Average Daily Customers | 786 |
 
-Superstore Data Insights -
+### 🔍 Insights
 
-Total Stores: 896
-Total Items Available: 2 Million
-Total Store Sales: ₹53 Million
-Average Store Sales: ₹59.35K
-Average Daily Customers: 786
+- **Sales Distribution:** Most stores report sales between ₹0 to ₹0.1M, indicating moderate yet steady performance.  
+- **Customer Trends:** Highest daily customer count in **mid-sized stores (1000–1600 sq.ft)**.  
+- **Top Performing Stores:** Top 10 stores show **strong customer engagement** and **efficient operations**.  
 
-Sales Distribution:
-Most stores have consistent sales between 0 to 0.1M, showing moderate but steady performance across all stores.
+### 💡 Business Recommendations
 
-Customer Trends:
-Daily customer count varies widely by store area, peaking in mid-sized stores (Store Area 1000–1600 sq.ft).
+1. Focus expansion on **mid-sized store areas (1000–1600 sq.ft)**.  
+2. Study and **replicate strategies** from top-performing stores.  
+3. **Optimize underperforming stores** using customer and sales data.  
 
-Top Performing Stores:
-Top 10 stores show higher customer engagement and sales, indicating strong local demand and efficient operations.
+### 🎯 Key Outcome
+Developed skills in:
+- Data storytelling through visualization.  
+- Converting raw metrics into actionable business insights.  
+- Creating **interactive Power BI dashboards** for decision-making.  
 
-Insights Summary
-High Store Count (896) ensures wide customer coverage.
-786 Avg. Daily Customers shows stable footfall across regions.
-₹53M Total Sales indicates overall healthy business performance.
-Top 10 Stores outperform due to higher customer inflow, strategic location, or better inventory management.
+---
 
-Business Recommendation :
-
-Focus on mid-sized store areas (1000–1600 sq.ft) for expansion.
-Analyze top-performing stores to replicate their success strategies.
-Optimize underperforming stores using customer flow and sales data.
-
-
-
-
-
-Task - 5 EDA Analysis on Restaurant Business Analytics: Services, Customer Engagement & Market Insights
+## 🍽️ Task 5 – Exploratory Data Analysis (EDA)
 
 ### 🎓 Internship Project – Elevate Labs  
 **Intern Name:** Rishi Patel  
