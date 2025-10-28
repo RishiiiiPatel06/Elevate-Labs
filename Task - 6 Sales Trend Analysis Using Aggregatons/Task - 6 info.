@@ -1,0 +1,7 @@
+objective :- analyse montly revenue and order volumn.
+
+tools :- PostgreSQL
+
+Deliverbles: SQL script + results table
+
+outcome :- learn how to group data and analyze time trends.
