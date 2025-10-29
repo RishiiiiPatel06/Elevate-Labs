@@ -460,6 +460,34 @@ By leveraging data-driven insights, restaurant businesses can **improve customer
 
 ---
 
-## 📂 Repository Structure
+# 🧮 Task 6: Sales Trend Analysis Using Aggregations
+
+## 📘 Objective
+Analyze monthly **sales trends**, **revenue performance**, and **order volume** using **PostgreSQL** aggregation functions.  
+This project focuses on extracting insights from sales data and identifying patterns by month, quarter, and year.
+
+---
+
+## 🧰 Tools & Technologies
+- **Database:** PostgreSQL  
+- **Language:** SQL  
+- **Dataset:** Online Sales Data  
+- **Environment:** pgAdmin / DBeaver / SQL Shell (psql)
+
+---
+
+## 📈 Insights
+- Q1 months (Jan–Mar) typically show the highest order volumes.  
+- Monthly aggregation helps track growth trends and identify slow seasons.  
+- SUM() and COUNT(DISTINCT) functions reveal overall business performance.  
+- PostgreSQL’s EXTRACT() and GROUP BY enable efficient time-based analysis.
+
+---
+
+## 🏁 Conclusion
+This project demonstrates the use of **PostgreSQL aggregation functions** — including `SUM()`, `COUNT()`, `DISTINCT`, `GROUP BY`, and `EXTRACT()` — to derive actionable insights from sales data.  
+It highlights practical techniques for analyzing revenue and order trends over time.
+
+---
 
 
